@@ -1,6 +1,6 @@
 # My Wave Portal
 
-It is an simple appication in blockchain which we can used to build friends and get reviews from them.
+It is an simple appication in blockchain which we can used to make friends and get reviews from them.
 
 Contract Deployed On Ropsten Network
 
